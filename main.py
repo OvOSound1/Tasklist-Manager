@@ -1,4 +1,4 @@
-# Names: Francisco Fausto, Tiffany Nguyen, Nick Breeding 
+# Names: Francisco Fausto
 # Assignment: Lab 12, Group 9
 # Course: CECS 277 Sec 04
 # Date: April 30th, 2024
